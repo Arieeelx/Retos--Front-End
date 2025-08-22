@@ -47,7 +47,7 @@ hr {
         .boton1 {
             padding: 5px;
 
-            background-color: hsl(209, 81%, 50%);
+            background-color: #0090ff;
             color: white;
 
             border-style: unset;
@@ -56,7 +56,7 @@ hr {
         .boton2 {
             padding: 5px;
 
-            background-color: hsl(180, 2%, 65%);
+            background-color: #aaa;
             color: white;
 
             border-style: unset;
