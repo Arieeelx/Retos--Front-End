@@ -1,0 +1,64 @@
+body {
+    background-color: #dfdede;
+}
+
+p {
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+hr {
+    border-color: #e2e1e1;
+    border-style: solid;
+    width: 100%;
+}
+
+.caja {
+
+    padding-top: 1px;
+    padding-bottom: 20px;
+
+    color: rgb(0, 0, 0);
+    background-color: #ededed;
+
+    border-radius: 2px;
+    border-color: #dfdede;
+    border-style: solid;
+    
+    height: auto;
+}
+
+    .caja1 {
+        padding-left: 10px;
+        padding-right: 10px;
+
+        font-size: 20px;
+
+        background-color: #ededed;
+    }
+
+    .caja2 {
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+
+    }
+
+        .boton1 {
+            padding: 5px;
+
+            background-color: hsl(209, 81%, 50%);
+            color: white;
+
+            border-style: unset;
+        }
+
+        .boton2 {
+            padding: 5px;
+
+            background-color: hsl(180, 2%, 65%);
+            color: white;
+
+            border-style: unset;
+        }
+
