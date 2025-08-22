@@ -2,6 +2,29 @@ body {
     background-color: #eee;   
 }
 
-p {
- color: red;
+.p1 {
+    color: rgb(165, 40, 40);
+    text-align: justify;
+    text-indent: 40px;
+    line-height: 1.5;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 1.5);
+}
+
+.a1 {
+    text-decoration: underline;
+    text-transform: capitalize;
+    letter-spacing: 3px;
+    word-spacing: 100px;
+}
+
+.p2 {
+    font-family: "Times New Roman";
+    font-style: italic;
+    font-size: 1em;
+    font-weight: 800;
+
+
+    text-shadow: 10px 5px 10px rgba(0, 0, 0, 1.5);
+
+    text-align: center;
 }
